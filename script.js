@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const knocks = [
     { text: "✊ Knock knock knock... Bubu! ❤️", dot: 0 },
     { text: "✊ Knock knock knock... Miru! ✨", dot: 1 },
-    { text: "✊ Knock knock knock... Vaishnavi! (Cute formal tone 🥰)", dot: 2 },
+    { text: "✊ Knock knock knock... Vaishnavi! 🥰", dot: 2 },
     { text: "🎉 BAZINGA! Happy 6 Months to the love of my life! 💍", dot: -1 }
   ];
 
