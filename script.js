@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ],
       correctKey: "D",
       isCustomLove: false,
-      wrongMsg: "Try Again yar! Ameerpet metro station bhool gayi kya Bubu? 🥺"
+      wrongMsg: "Try Again yar! Ameerpet metro station bhool gayi kya? 🥺"
     },
     {
       label: "Question 2 of 5 • The Big Bang Theory Romantic Physics",
@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ],
       correctKey: "B",
       isCustomLove: false,
-      wrongMsg: "KOI NI I STILL LOVE YOU, but it's the cozy apartment sanctuary Swiftie Bubu! 🎄✨"
+      wrongMsg: "KOI NI I STILL LOVE YOU, but it's the cozy apartment sanctuary Swiftie! 🎄✨"
     },
     {
       label: "Question 4 of 5 • Crucial Life Inquiries",
@@ -221,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
   ];
 
   const correctRandomResponses = [
-    "Arey wah! 🌟 Bubu is a genius!",
+    "Arey wah! 🌟 You are a genius!",
     "HIGH FIVE MERA BUBU! 🙌❤️",
     "OYE BAS KARO BHAI! Itna accurate?! 😍",
     "Bazinga! Sheldon would be proud of you Miru!"
